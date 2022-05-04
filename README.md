@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
         </td>
       </tr>
       <tr>
-        <td align="center"🛠️ >Databases</td>
+        <td align="center">🛠️ Databases</td>
         <td align="center">
           <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -63,7 +63,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
     </tbody>
   </table>
   </div>
-  <span> (e sei desmontar pc) </span>
   
  
 </div>
